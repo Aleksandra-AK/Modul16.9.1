@@ -1,6 +1,6 @@
 from figures import Rectangle, Circle
 
-rect_1 = Rectangle(4, 8, 40)
+rect_1 = Rectangle(4, 8, 40, 80)
 rect_2 = Rectangle(9, 13, 90, 130)
 
 circle_1 = Circle(3, 4, 6)
